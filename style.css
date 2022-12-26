@@ -1,0 +1,128 @@
+body{
+    background: url(img/Fondo\ Circuito.png);
+}
+.logo{
+    background-color: aqua;
+    float: left;
+    margin-left: 20px;
+}
+.titulo{
+    text-align: center;
+    color: aqua;
+    font-size: 30px;
+    margin-top: 30px;
+}
+nav{
+    width: 90%;
+}
+nav form{
+    margin: auto;
+    width: 1000px;
+    height: 720px;
+    padding: 10px;
+}
+#lupa{
+    width: 150px;
+    height: 150px;
+    margin-right: 0%;
+    margin-top: 5px;
+    margin-bottom: 150px;
+    display: show;
+}
+.cajas-de-texto{
+    text-align: center;
+    margin-top: 250px;
+}
+.seccion1{
+    float: left;
+    margin-left: 15%;
+    margin-top: 15%;
+    width: 30%;
+    height: 30%;
+    color: aqua;
+    font-size: 22px;
+    border: none;
+    outline: none;
+    background: rgba(138, 221, 45, 0);
+}
+.seccion2{
+    color: violet;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    background: rgba(138, 221, 45, 0);
+}
+.botones{
+    text-align: center;
+}
+.bt1{
+    padding: auto;
+    width: 12%;
+    height: 15%;
+    font-size: 15px;
+    color: aqua;
+    border-radius: 20px;
+    margin-left: 10%;
+    background: #0a3871;
+}
+.bt1:hover{
+    border-color: #c78c19;
+}
+.bt1:hover {
+    font-size: 18px;
+}
+.bt1:active{
+    border-color: green;
+}
+.bt2{
+    padding: auto;
+    width: 12%;
+    height: 15%;
+    font-size: 15px;
+    color: aqua;
+    border-radius: 20px;
+    margin-left: 10%;
+    background: #0a3871;
+}
+.bt2:hover{
+    border-color: #c78c19;
+}
+.bt2:hover {
+    font-size: 18px;
+}
+.bt2:active{
+    border-color: green;
+}
+.bt3{
+    padding: auto;
+    width: 12%;
+    height: 15%;
+    font-size: 15px;
+    color: aqua;
+    border-radius: 20px;
+    margin-left: 10%;
+    background: #0a3871;
+}
+.bt3:hover{
+    border-color: #c78c19;
+}
+.bt3:hover {
+    font-size: 18px;
+}
+.bt3:active{
+    border-color: green;
+}
+span{
+    color: aqua;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+.desarrollador{
+    color: aqua;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 50px;
+}
