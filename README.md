@@ -1,0 +1,2 @@
+# encriptadordetexto
+encriptador
